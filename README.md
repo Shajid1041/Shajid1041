@@ -71,26 +71,6 @@ I’m a **passionate MERN Stack Developer from Bangladesh 🇧🇩** who loves b
 
 ---
 
-## 🧩 Featured Projects
-
-### 🎓 Online Education Platform
-**Tech:** MERN, JWT, Role-Based Access  
-- 👨‍🏫 Instructor & Student dashboards  
-- 🔐 Secure authentication & authorization  
-- 📊 Course management system  
-
-👉 *More projects on my portfolio*
-
----
-
-### 🛒 Full-Stack E-Commerce App
-**Tech:** React, Node, MongoDB, Stripe  
-- 🛍️ Product listing & cart system  
-- 💳 Online payments  
-- 📦 Admin panel  
-
----
-
 ## 📈 GitHub Analytics
 
 <p align="center">
