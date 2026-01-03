@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shajid</h1>
+
 <h3 align="center">Full-Stack MERN Developer | Next.js Learner | Open-Source Enthusiast</h3>
 
 <p align="center">
@@ -8,6 +9,7 @@
 </p>
 
 ---
+<img align="right" height="200" src="https://i.postimg.cc/2SnnXsTx/2206.jpg"  />
 
 # 💫 About Me:
 🔭 I’m currently working on Online Learning Platform<br>🌱 I’m currently learning Next js<br>💬 Ask me about React,Javascript and Python<br>⚡ Fun fact I’m most productive after midnight 
@@ -26,23 +28,19 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Shajid1041&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Shajid1041&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
----
 [![](https://visitcount.itsvg.in/api?id=Shajid1041&icon=9&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->---
 
-## 🤝 Open to Opportunities
+###
 
-- 💼 Full-Time / Internship / Freelance
-- 🌍 Remote-Friendly
-- 🤝 Open to collaboration & open source
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shajid1041&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shajid1041&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-📩 *Let’s build something amazing together.*
+###
 
----
 
 <p align="center">
   <b>“Code. Learn. Improve. Repeat.”</b>
